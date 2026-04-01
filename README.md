@@ -25,4 +25,4 @@ I am a Computer Engineering student focused on building functional software solu
 
 ---
 
-📫 **How to reach me:**  [Email](oguzhan185790@gmail.com)
+📫 **How to reach me:**  [Email](mailto:oguzhan185790@gmail.com)
