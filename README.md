@@ -1,11 +1,11 @@
 # Hi there, I'm Oğuzhan! 👋
 
-### 👨‍💻 Computer Engineering Student at IZTECH (İYTE)
+###  Computer Engineering Student at IZTECH (İYTE)
 I am a Computer Engineering student focused on building functional software solutions while understanding the underlying hardware architecture and system principles.
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 * **[UTMS - Undergraduate Transfer Management System](https://github.com/OguzhanCKL/Undergraduate-Transfer-Management-System-UTMS)** *Digitizing transfer workflows with automated eligibility checks and role-based access.*
 
@@ -13,7 +13,7 @@ I am a Computer Engineering student focused on building functional software solu
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 * **Languages:** * Python (Intermediate)
   * C (Beginner)
@@ -25,4 +25,4 @@ I am a Computer Engineering student focused on building functional software solu
 
 ---
 
-📫 **How to reach me:**  [Email](mailto:oguzhan185790@gmail.com)
+ **How to reach me:**  [Email](mailto:oguzhan185790@gmail.com)
