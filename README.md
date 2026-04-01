@@ -25,4 +25,4 @@ I am a Computer Engineering student focused on building functional software solu
 
 ---
 
-📫 **How to reach me:** [LinkedIn](LİNKİNİ_BURAYA_YAPIŞTIR) | [Email](MAİLİNİ_BURAYA_YAPIŞTIR)
+📫 **How to reach me:**  [Email](oguzhan185790@gmail.com)
