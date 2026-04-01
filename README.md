@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Oğuzhan! 👋
 
-<!--
-**OguzhanCKL/OguzhanCKL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Computer Engineering Student at IZTECH (İYTE)
+I am a Computer Engineering student focused on building functional software solutions while understanding the underlying hardware architecture and system principles.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+
+* **[UTMS - Undergraduate Transfer Management System](https://github.com/OguzhanCKL/Undergraduate-Transfer-Management-System-UTMS)** *Digitizing transfer workflows with automated eligibility checks and role-based access.*
+
+* **[Dormitory Management Database System](https://github.com/OguzhanCKL/Dormitory-Management-Database-System)** *A relational SQL-based solution for managing complex dormitory operations and data integrity.*
+
+---
+
+### 🛠️ Tech Stack
+
+* **Languages:** * Python (Intermediate)
+  * C (Beginner)
+  * SQL (Beginner)
+  * Assembly - MIPS (Beginner)
+
+* **Frameworks & Frontend:** * React
+  * HTML / CSS
+
+---
+
+📫 **How to reach me:** [LinkedIn](LİNKİNİ_BURAYA_YAPIŞTIR) | [Email](MAİLİNİ_BURAYA_YAPIŞTIR)
