@@ -1,4 +1,4 @@
-# Hi there, I'm Oğuzhan! 👋
+# Hi there, I'm Oğuzhan! 
 
 ###  Computer Engineering Student at IZTECH (İYTE)
 I am a Computer Engineering student focused on building functional software solutions while understanding the underlying hardware architecture and system principles.
@@ -15,12 +15,14 @@ I am a Computer Engineering student focused on building functional software solu
 
 ###  Tech Stack
 
-* **Languages:** * Python (Intermediate)
+* **Languages:**
+  * Python (Intermediate)
   * C (Beginner)
   * SQL (Beginner)
   * Assembly - MIPS (Beginner)
 
-* **Frameworks & Frontend:** * React
+* **Frameworks & Frontend:**
+  * React
   * HTML / CSS
 
 ---
